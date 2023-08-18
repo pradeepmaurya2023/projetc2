@@ -1,3 +1,3 @@
 #   New Project
 This is our new project
-Created by Pradeep Kumar
+Created by Pradeep
